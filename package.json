@@ -1,0 +1,23 @@
+{
+  "name": "multiply-package-chinonso",
+  "version": "1.0.0",
+  "description": "This is a test project to multiply numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinonny/multiply-test.git"
+  },
+  "keywords": [
+    "multiply",
+    "numbers"
+  ],
+  "author": "Chinonny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinonny/multiply-test/issues"
+  },
+  "homepage": "https://github.com/Chinonny/multiply-test#readme"
+}
